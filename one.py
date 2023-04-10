@@ -6,7 +6,7 @@ import time as tea
 def TowerOfHanoiMoves(s,e):
     for i in range(s,e):
       print('No. of moves: %s' % i)
-      tea.sleep(0.012545)
+      tea.sleep(0.0212545)
       
       
       
